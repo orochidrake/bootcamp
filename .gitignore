@@ -1,4 +1,8 @@
 backend/node_modules/
 frontend/node_modules/
+mobile/node_modules/
+typescript/node_modules/
+primeiro-projeto-node/node_modules/
+
 
 .DS_Store
